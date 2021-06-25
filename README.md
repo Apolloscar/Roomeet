@@ -1,4 +1,5 @@
 # Roomeet
 
-cin >> "fuck
 COut lasdmnkf
+This hit garbage
+screw it
